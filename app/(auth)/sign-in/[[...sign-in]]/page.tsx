@@ -17,6 +17,7 @@ export default function Page() {
         <div className="flex items-center justify-center mt-8">
           <ClerkLoaded>
             <SignIn />
+            {/* <SignIn path="/sign-in" /> */}
           </ClerkLoaded>
           <ClerkLoading>
             <Loader2 className="animate-spin text-muted-foreground" />
