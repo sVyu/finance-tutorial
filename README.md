@@ -1,7 +1,7 @@
 
 <details open><summary>✅ Ref : https://www.youtube.com/watch?v=N_uNKAus0II</sup></summary>
 
-  <a target="_blank" href="https://youtu.be/N_uNKAus0II?si=DBB3wtcPNOdCYhS8">
+  <a target="_blank" href="https://www.youtube.com/watch?v=N_uNKAus0II">
   <img src="https://img.youtube.com/vi/N_uNKAus0II/maxresdefault.jpg" alt="" width="70%" />
     </a>
 </details>
