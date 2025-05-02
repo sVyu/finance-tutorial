@@ -10,7 +10,8 @@ import {
 } from '@/components/ui/tooltip';
 
 type Props = {
-  value: string | undefined;
+  // value: string | undefined; // next error
+  value: string;
   onChange: (value: string | undefined) => void;
   placeholder?: string;
   disabled?: boolean;

@@ -99,7 +99,7 @@ const app = new Hono()
         .select({
           id: transactions.id,
           date: transactions.date,
-          category: categories.name,
+          // category: categories.name,
           categoryId: transactions.categoryId, // unique
           payee: transactions.payee,
           amount: transactions.amount,
