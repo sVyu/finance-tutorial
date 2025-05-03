@@ -91,8 +91,8 @@ export const ImportCard = ({ data, onCancel, onSubmit }: Props) => {
       amount: convertAmountToMiliunits(parseFloat(item.amount)),
       date: format(parse(item.date, dateFormat, new Date()), outputFormat),
     }));
+    // console.log(formmatedData);
 
-    console.log(formmatedData);
     onSubmit(formmatedData);
   };
 
