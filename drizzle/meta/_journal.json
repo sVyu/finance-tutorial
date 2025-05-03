@@ -15,6 +15,20 @@
       "when": 1745597969671,
       "tag": "0001_elite_bishop",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1745767140103,
+      "tag": "0002_outstanding_eternity",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1745830839668,
+      "tag": "0003_ambitious_blockbuster",
+      "breakpoints": true
     }
   ]
 }
