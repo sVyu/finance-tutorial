@@ -9,6 +9,7 @@
     "lint": "next lint",
     "db:generate": "drizzle-kit generate",
     "db:migrate": "drizzle-kit migrate",
+    "db:seed": "node --loader esbuild-register/loader -r esbuild-register ./scripts/seed.ts",
     "db:studio": "drizzle-kit studio"
   },
   "dependencies": {
@@ -39,10 +40,12 @@
     "next": "15.3.1",
     "next-themes": "^0.4.6",
     "react": "^19.0.0",
+    "react-countup": "^6.5.3",
     "react-currency-input-field": "^3.10.0",
     "react-day-picker": "^8.10.1",
     "react-dom": "^19.0.0",
     "react-hook-form": "^7.56.1",
+    "react-icons": "^5.5.0",
     "react-papaparse": "^4.4.0",
     "react-select": "^5.10.1",
     "react-use": "^17.6.0",
