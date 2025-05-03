@@ -18,13 +18,13 @@
 - [x] [Feat/accounts bulk delete #9](https://github.com/sVyu/finance-tutorial/pull/9)
 - [x] [Feat/accounts edit #10](https://github.com/sVyu/finance-tutorial/pull/10)
 - [x] [feat: categories (<- copy and change from accounts) #11](https://github.com/sVyu/finance-tutorial/pull/11)
-- [ ] Transactions API
-- [ ] Transactions hooks
-- [ ] Transactions form
-- [ ] Transactions page
-- [ ] Transactions CSV import
-- [ ] Transactions account select
-- [ ] Summary API
+- [x] [Feat/transactions api #12](https://github.com/sVyu/finance-tutorial/pull/12)
+- [x] [Feat/transactions hooks (<- copy and change from accounts) #13](https://github.com/sVyu/finance-tutorial/pull/13)
+- [x] [Feat/transactions form #14](https://github.com/sVyu/finance-tutorial/pull/14)
+- [x] [Feat/transactions page #16](https://github.com/sVyu/finance-tutorial/pull/16)
+- [x] [Feat/transactions csv import #17](https://github.com/sVyu/finance-tutorial/pull/17)
+- [x] [Feat/transactions account select #18](https://github.com/sVyu/finance-tutorial/pull/18)
+- [x] [feat: summary-api #19](https://github.com/sVyu/finance-tutorial/pull/19)
 - [ ] Dashboard cards
 - [ ] Dashboard chart
 - [ ] Dashboard pie
