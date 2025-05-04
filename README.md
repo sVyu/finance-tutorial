@@ -25,9 +25,9 @@
 - [x] [Feat/transactions csv import #17](https://github.com/sVyu/finance-tutorial/pull/17)
 - [x] [Feat/transactions account select #18](https://github.com/sVyu/finance-tutorial/pull/18)
 - [x] [feat: summary-api #19](https://github.com/sVyu/finance-tutorial/pull/19)
-- [ ] Dashboard cards
-- [ ] Dashboard chart
-- [ ] Dashboard pie
-- [ ] Date & account filters
+- [x] [Feat/dashboard cards #21](https://github.com/sVyu/finance-tutorial/pull/21)
+- [x] [Feat/dashboard chart #22](https://github.com/sVyu/finance-tutorial/pull/22)
+- [x] [feat: dashboard-pie #23](https://github.com/sVyu/finance-tutorial/pull/23)
+- [x] [Feat/date and account filters #24](https://github.com/sVyu/finance-tutorial/pull/24)
 - [ ] Deployment
 </details>
